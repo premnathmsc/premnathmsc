@@ -27,12 +27,11 @@ To work in a challenging environment demanding all my skills and efforts to expl
 
 
 EDUCATION
-  * March 2004 – March 2006  Madurai MSC (CS & IT)
+  * Madurai MSC (CS & IT)
           Mannar Thirumalai Naicker College is a general degree college in Madurai, - 80%
-  * March 2001 – March 2004 , Madurai BSC (CS)  NMSSVN College - 67%
-  * March 2000 – March 2001    HSC, Madurai Meenakshi Hr.Sec School - 65%
-  * March 1998 – March 1999   SSLC, Madurai Chandler Hr.Sec School - 56%
-
+  * Madurai BSC (CS)  NMSSVN College - 67%
+  * HSC, Madurai Meenakshi Hr.Sec School - 65%
+  
   
   SKILLS
   
@@ -48,6 +47,9 @@ EDUCATION
   ★★★★★ Drupal
   ★★★★★ Joomla
   ★★★★★ Wordpress
+  ★★★★★ Magento
+  ★★★★★ Joomla
+  ★★★★★ Drupla
   ★☆☆☆☆ ReactJS
   ★☆☆☆☆ Github & SVN
   ★☆☆☆☆ Symfony
@@ -61,6 +63,17 @@ EDUCATION
 
 - 📫 How to reach me 
 premnathmsc7@gmail.com
+
+**Working Product :**
+**QATouch**
+Test Together
+
+Collaborative Test Case Management tool For Modern QA Teams
+
+User Interface
+Modern intuitive user interface that makes testing feel a breeze. Every detail with respect to projects, test cases, milestones and sprints are presented in the most structured way. Blistering speed interface compared to any other test management suite in the market.
+https://premnath.qatouch.com/login
+
 
 <!---
 premnathmsc/premnathmsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
