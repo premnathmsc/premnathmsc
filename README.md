@@ -36,7 +36,7 @@ EDUCATION
   SKILLS
   
   ★★★★★ PHP
-  ★★★★★ MYSQL
+  ★★★★★ MYSQL / SQL 
   ★★★★★ NODEJS
   ★★★★★ Laravel Framework
   ★★★★★ Laravel Lumen
@@ -51,6 +51,7 @@ EDUCATION
   ★★★★★ Joomla
   ★★★★★ Drupla
   ★★★★★ Nodejs / Nodejs Package
+  ★☆☆☆☆ Python
   ★☆☆☆☆ ReactJS
   ★☆☆☆☆ Github & SVN
   ★☆☆☆☆ Symfony
