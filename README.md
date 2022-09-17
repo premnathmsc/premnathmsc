@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Premnath Murugesan - Product Architect (DCKAP)
+- 👋 Hi, I’m Premnath Murugesan - Senior Product Architect (DCKAP)
 
 - 👀 9+ Years of Experience and Resourceful Solutions Development experience in all phases of software development projects in planning, analysis, design, development, and implementation of web applications using PHP-MYSQL related technologies.
 
@@ -20,7 +20,7 @@ To work in a challenging environment demanding all my skills and efforts to expl
    Requirement collection and analysis, DB Design, UI Design, Client interaction &amp; Coding
 
 - 💞️ SOCIAL PROFILES 
-  * Linkedln: https://in.linkedin.com/in/premnath123
+  * Linkedln: https://www.linkedin.com/in/premnathmurugesan/
   * QA Touch Blog: https://www.qatouch.com/blog/author/superuser/
   * My Blog: https://premnathm.wordpress.com/
   * Magento Developer Plus Certified Professional: http://www.magentocommerce.com/certification/directory/dev/2051993/
