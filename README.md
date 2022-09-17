@@ -2,6 +2,17 @@
 
 - 👀 9+ Years of Experience and Resourceful Solutions Development experience in all phases of software development projects in planning, analysis, design, development, and implementation of web applications using PHP-MYSQL related technologies.
 
+E-commerce, Integration, Education, Real Estate, Job Portals, Booking Applications
+As a Technical Project Manager 
+ Good in Client Interaction, Project Requirement Analysis, Project Planning, Resource Management
+Good knowledge in PHP, MySQL , MVC , CakePHP ,Code Igniter ,Joomla ,Open Cart , Jquery
+Having Knowledge in open sources Smarty, Elgg, Drupal, Magento, Prestashop, Wordpress
+Well versed with Portal development and E-commerce Development and optimization
+Good in prioritizing, organizing and handling multiple tasks.
+Good in Analytical skills and Problem solving
+Willing to challenges and to adapt to new technologies
+Self-motivated and hard worker
+
   Framework - Symphony2.4
   Knowledge in front-end development using HTML 5, CSS 3, Ajax, JQuery
   Experience in Object Oriented Programming / Modular programming.
