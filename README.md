@@ -2,23 +2,27 @@
 
 - 👀 9+ Years of Experience and Resourceful Solutions Development experience in all phases of software development projects in planning, analysis, design, development, and implementation of web applications using PHP-MYSQL related technologies.
 
-E-commerce, Integration, Education, Real Estate, Job Portals, Booking Applications
-As a Technical Project Manager 
- Good in Client Interaction, Project Requirement Analysis, Project Planning, Resource Management
-Good knowledge in PHP, MySQL , MVC , CakePHP ,Code Igniter ,Joomla ,Open Cart , Jquery
-Having Knowledge in open sources Smarty, Elgg, Drupal, Magento, Prestashop, Wordpress
-Well versed with Portal development and E-commerce Development and optimization
-Good in prioritizing, organizing and handling multiple tasks.
-Good in Analytical skills and Problem solving
-Willing to challenges and to adapt to new technologies
-Self-motivated and hard worker
+I am played a crucial role in building the architecture of QA Touch.
+Acquired depth and breadth of specialisation within the field of SAAS product development. Developed ability to Juggle between multiple roles efficiently.
 
-  Framework - Symphony2.4
-  Knowledge in front-end development using HTML 5, CSS 3, Ajax, JQuery
-  Experience in Object Oriented Programming / Modular programming.
-  Understanding of MVC design patterns and frameworks.
-  Putty to access server. The controls SVN commits and merge in LIVE Server.
-  
+Responsible for Guiding architects on designing high-level product specifications. Define and approve standards and architecture developed by team of architects. Provide technical guidance and training to developers and engineers
+Build and lead a team that executes, supports, markets, and sells the product. Facilitate brainstorming sessions that encourage thought leadership
+
+ 1. Magento Developer Plus certified professional.
+2. Experience in other open source Content Management System – Joomla, WordPress, Drupal, OSCommerce, and Zen Cart
+3. Well versed in JavaScript, jQuery, AJAX and CURL.
+4. Experience in Object Oriented Programming / Modular programming.
+5. Good understanding of MVC design patterns and frameworks.
+6. Quick learner and excellent team player having ability to meet tight deadlines and work under pressure.
+7. Ability to work independently and successfully meet project goals.
+8. Good knowledge in PHP, MySQL , MVC , Laravel Framework ,Lumen,Code Igniter ,Joomla ,Open Cart , Jquery , NodeJS Express, Python Flask, VueJS, ReactJS
+9. Having Knowledge in open sources Smarty,Drupal, Magento, Prestashop, Wordpress
+10. Well versed with Portal development and E-commerce Development and optimisation
+11. Good in prioritizing, organising and handling multiple tasks.
+12. Good in Analytical skills and Problem solving
+13. Willing to challenges and to adapt to new technologies
+14. Self-motivated and hard worker
+
 
 - 🌱 Objective :
 Challenging Career in a company where I can keep myself improving by constant learning and provide perpetual value addition to the company as well.
